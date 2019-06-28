@@ -2,10 +2,10 @@
 
 Project Description: Mini Project on Signal Management.
 
-to launch:
+to build and launch:
 
-- make / make re
-- use two shell for client / server
+    - make / make re
+    - use two shell for client / server
 
 USAGE
     
