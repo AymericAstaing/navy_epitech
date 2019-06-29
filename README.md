@@ -1,6 +1,6 @@
 # navy_epitech (TECH 1 2017-2018)
 
-Project Description: Mini Project on Signal Management.
+Mini Project on Signal Management.
 
 to build and launch:
 
